@@ -5,6 +5,7 @@
 
   font-family: "Fira Code", monospace;
   font-size: 64px;
+  line-height: 0;
   text-align: center;
   font-weight: 700;
   color: var(--color-negative-20);
@@ -46,10 +47,6 @@ input[type="number"] {
 .cxd {
   display: flex;
   justify-content: space-between;
-}
-
-.cxd {
-  margin-bottom: -20px;
 }
 
 .input-variable {
