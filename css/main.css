@@ -6,26 +6,27 @@ body {
     max-width: 480px;
     text-align: left;
     padding: 0 16px;
-    background-color: #26323D;
+    /* background-color: #26323D; */
+    background-color: #27187E;
 }
 
 p {
-    font-family: 'Recursive', sans-serif;
-    font-size: 18px;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 20px;
     line-height: 1.8;
-    color: #89C4E1;
+    color: #F1F2F6;
     text-align: left; 
 }
 
 a {
-    color: #90B9E8;
+    color: #AEB8FE;
 }
 
 a:hover, a:visited:hover {
     opacity: 0.8;  
-    color: #F58220;
+    color: #FF8600;
 }
 
 a:visited {
-    color: #4F8CC8;
+    color: #758BFD;
 }
