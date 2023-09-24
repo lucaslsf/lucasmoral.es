@@ -7,7 +7,7 @@ body {
     text-align: left;
     padding: 0 16px;
     /* background-color: #26323D; */
-    background-color: #27187E;
+    background-color: #2A2D34;
 }
 
 p {
@@ -19,14 +19,14 @@ p {
 }
 
 a {
-    color: #AEB8FE;
+    color: #30C5FF;
 }
 
 a:hover, a:visited:hover {
     opacity: 0.8;  
-    color: #FF8600;
+    color: #279AF1; 
 }
 
 a:visited {
-    color: #758BFD;
+    color: #746D75;
 }
